@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Year 2 Computer Science undergraduate at the National University of Singapore (NUS), with a strong passion for Machine Learning and Artificial Intelligence, particularly in the areas of Deep Learning and Natural Language Processing. I am drawn to the challenge of building systems that can understand, learn, and reason from data. Whether it is training neural networks or exploring how machines can better comprehend human language, I am constantly seeking to deepen my understanding of the field through coursework, self-directed learning, and hands-on projects.
+I am a Year 2 Computer Science undergraduate at the National University of Singapore (NUS), with a strong passion for Machine Learning and Software Engineering. I am drawn to the challenge of building systems that can understand, learn, and reason from data. Whether it is training neural networks or exploring how machines can better comprehend human language, I am constantly seeking to deepen my understanding of the field through coursework, self-directed learning, and hands-on projects.
 
 
 ## 🌐 Socials:
